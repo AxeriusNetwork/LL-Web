@@ -1,20 +1,20 @@
 <?php
-	include '/php/head-start.php';
+	include 'https://www.landscape-lifestyles.co.uk/dev/php/head-start.php';
 ?>
 <title>Landscape Lifestyles - Fencing, Paving & Planters and more! - Professional Landscapers</title>
 <?php
-	include '/php/head-end.php';
+	include 'https://www.landscape-lifestyles.co.uk/dev/php/head-end.php';
 ?>
 
 <?php
-	include '/php/body-navigation.php';
+	include 'https://www.landscape-lifestyles.co.uk/dev/php/body-navigation.php';
 ?>
 
 <!-- main content here -->
 <?php
-	include '/php/locations-over.php';
+	include 'https://www.landscape-lifestyles.co.uk/dev/php/locations-over.php';
 ?>
 
 <?php
-	include '/php/footer-end.php';
+	include 'https://www.landscape-lifestyles.co.uk/dev/php/footer-end.php';
 ?>
