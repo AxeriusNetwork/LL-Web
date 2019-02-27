@@ -4,3 +4,9 @@ body {
 strong {
 	font-family: 'Lato:b', sans-serif;
 }
+.ll-alert {
+	position: fixed;top: 0;right: 0;opacity:0.4;
+}
+.ll-alert:hover {
+	opacity:1;
+}
