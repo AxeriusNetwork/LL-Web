@@ -1,13 +1,13 @@
 <?php
-	include 'https://www.landscape-lifestyles.co.uk/dev/php/head-start.php';
+	include 'php/head-start.php';
 ?>
 <title>404 Page - Landscape Lifestyles - We're very sorry, you seem to have run into a brick wall.</title>
 <?php
-	include 'https://www.landscape-lifestyles.co.uk/dev/php/head-end.php';
+	include 'php/head-end.php';
 ?>
 
 <?php
-	include 'https://www.landscape-lifestyles.co.uk/dev/php/body-navigation.php';
+	include 'php/body-navigation.php';
 ?>
 
 <!-- main content here -->
@@ -26,5 +26,5 @@
 </script>
 
 <?php
-	include 'https://www.landscape-lifestyles.co.uk/dev/php/footer-end.php';
+	include 'php/footer-end.php';
 ?>
