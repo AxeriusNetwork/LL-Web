@@ -11,15 +11,23 @@
 ?>
 
 <!-- main content here -->
-<div class="alert alert-danger" role="alert">
-  <h4 class="alert-heading">Well done!</h4>
-  <p>Aww yeah, you seem to have found an unwanted page/link.</p>
-  <hr>
-  <p class="mb-0">Please find your way back to our home page here: </p>
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
+<section class="py-4 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="alert alert-danger" role="alert">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h4 class="alert-heading">Well done!</h4>
+          <p>Aww yeah, you seem to have found an unwanted page/link.</p>
+          <hr>
+          <p class="mb-0">Please find your way back to our home page here: </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <script>
 	$('.alert').alert()
