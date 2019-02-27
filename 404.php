@@ -29,6 +29,8 @@
   </div>
 </section>
 
+<br><br><br><br><br><br><br>
+
 <script>
 	$('.alert').alert()
 </script>
