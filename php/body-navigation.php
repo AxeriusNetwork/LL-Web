@@ -63,3 +63,12 @@
 			</ul>
 		</div>
 	</nav>
+    <div style="position: fixed;top: 0;left: 0;">
+	    <div style="padding: 5px;">
+	        <div id="inner-message" class="alert alert-error">
+	            <h1>This website is under real-time development.</h1>
+	            <p>All links and features are expected not to work and are work-in-progress.</p>
+	            <a href="https://www.landscape-lifestyles.co.uk">Visit our working / main website.</a>
+	        </div>
+	    </div>
+	</div>

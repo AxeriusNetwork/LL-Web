@@ -11,4 +11,14 @@
     <link href="css/style.css" rel="stylesheet">
     <!-- Google Font: Lato -->
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
+    <script type="application/ld+json">
+        { "@context" : "http://schema.org",
+          "@type" : "Organization",
+          "name" : "Landscape Lifestyles",
+          "url" : "http://www.landscape-lifestyles.co.uk",
+          "sameAs" : [ "https://en-gb.facebook.com/LandscapeYrLife/",
+            "https://twitter.com/landscapeyrlife",
+            "http://plus.google.com/your_profile"] 
+        }
+    </script>
 </head>
