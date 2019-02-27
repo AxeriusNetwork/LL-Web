@@ -15,14 +15,14 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <div class="alert alert-danger" role="alert">
+        <div class="alert alert-danger text-center" role="alert">
           <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
           <h4 class="alert-heading">Well done!</h4>
           <p>Aww yeah, you seem to have found an unwanted page/link.</p>
           <hr>
-          <p class="mb-0">Please find your way back to our home page here: </p>
+          <p class="mb-0">Please find your way back to the home page.</p>
         </div>
       </div>
     </div>
