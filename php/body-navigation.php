@@ -63,7 +63,7 @@
 			</ul>
 		</div>
 	</nav>
-    <div style="position: fixed;top: 0;right: 0;opacity:0.4;">
+    <div class="ll-alert">
 	    <div style="padding: 5px;">
 	        <div class="alert alert-danger">
 	            <h1>This website is under real-time development.</h1>
