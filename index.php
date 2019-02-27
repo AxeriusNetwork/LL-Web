@@ -11,7 +11,9 @@
 ?>
 
 <!-- main content here -->
-
+<?php
+	include '/php/locations-over.php';
+?>
 
 <?php
 	include '/php/footer-end.php';
